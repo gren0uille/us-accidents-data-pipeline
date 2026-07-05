@@ -53,11 +53,6 @@ Arenadata DB (Greenplum), Apache Superset 6.0, Docker Compose, SQL
 ```
 us-accidents-data-pipeline/
 │
-├── sql/
-│   ├── 01_create_tables.sql      # DDL: создание таблиц
-│   ├── 02_load_dimensions.sql    # Наполнение dim_location, dim_weather
-│   ├── 03_load_facts.sql         # Наполнение fact_accident
-│   └── 04_analytics_queries.sql  # Аналитические запросы
-├── screenshots/                  # Скриншоты дашборда Superset
+├── us_accidents_coursework.pdf   # курсовая работа с описанием, SQL-запросами и дашбордом
 └── README.md
 ```
